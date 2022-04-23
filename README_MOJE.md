@@ -1,7 +1,7 @@
 Wprawki z git 23.04.2022
 ## CONFLICT
 
-conflict 5
+conflict 55
 ```
 <<<<<<< HEAD
 Zmiana## CONFLICT
